@@ -1,0 +1,14 @@
+.alert{
+    cursor: default;
+}
+
+.alert h3{
+    text-align: center;
+    line-height: 1.5em;
+}
+
+.alert h1{
+    text-align: center;
+    font-size: 4em;
+    color: black;
+}

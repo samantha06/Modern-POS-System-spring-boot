@@ -1,0 +1,32 @@
+.fa-trash{
+    font-size: 2em;
+    cursor: pointer;
+}
+
+table tbody tr{
+    cursor: pointer;
+}
+
+table td:first-child, table th:first-child{
+    text-align: center;
+}
+
+table td:last-child, table th:last-child{
+    text-align: center;
+}
+
+table td:last-child:hover{
+    color: red;
+}
+
+table td, table th{
+    vertical-align: middle !important;
+}
+
+table *{
+    text-align: center;
+}
+
+table tr *:nth-child(2){
+    text-align: left;
+}

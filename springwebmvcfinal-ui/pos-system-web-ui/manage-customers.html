@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Modern POS 2019 - DEP3 Edition">
+    <title>Modern POS · DEP</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <!-- Font Awesome CSS -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+          integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+    <!-- Custom styles -->
+    <link href="css/styles.css" rel="stylesheet">
+    <!-- Manage Customer Styles -->
+    <link rel="stylesheet" href="css/manage-customers.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css">
+
+
+</head>
+<body>
+<nav class="navbar navbar-dark fixed-top bg-dark flex-md-nowrap p-0 shadow">
+    <a class="navbar-brand col-sm-3 col-md-2 mr-0" href="index.html">Modern POS</a>
+</nav>
+
+<div class="container-fluid">
+    <div class="row">
+        <nav class="col-md-2 d-none d-md-block bg-light sidebar">
+            <div class="sidebar-sticky">
+                <ul class="nav flex-column">
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.html">
+                            <i class="fas fa-tachometer-alt"></i>
+                            Dashboard
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" href="manage-customers.html">
+                            <i class="fas fa-user-friends"></i>
+                            Manage Customers
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="manage-items.html">
+                            <i class="fas fa-sitemap"></i>
+                            Manage Items
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="place-order.html">
+                            <i class="fas fa-shopping-cart"></i>
+                            Place Order
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="search-orders.html">
+                            <i class="fas fa-search"></i>
+                            Search Orders
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+
+        <main role="main" class="col-md-9 ml-sm-auto col-lg-10 px-4">
+            <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+                <h1 class="h2">Manage Customers</h1>
+            </div>
+            <section>
+                <div class="row">
+                    <div class="col col-12 col-lg-4">
+                        <div class="form-group">
+                            <input id="txtCustomerId" type="text" class="form-control" placeholder="Enter Customer ID">
+                        </div>
+                        <div class="form-group">
+                            <input id="txtCustomerName" type="text" class="form-control" placeholder="Enter Customer Name">
+                        </div>
+                        <div class="form-group">
+                            <input id="txtCustomerAddress" type="text" class="form-control" placeholder="Enter Customer Address">
+                        </div>
+                        <div class="form-group text-center">
+                            <button id="btnSave" class="btn btn-primary">Save</button>
+                            <button id="btnClear" class="btn btn-success">Clear</button>
+                        </div>
+                    </div>
+                    <div class="col col-12 col-lg-8">
+                        <table id="tblCustomers" class="table table-bordered table-hover">
+                            <colgroup>
+                                <col style="width: 100px;">
+                                <col>
+                                <col>
+                                <col style="width: 100px;">
+                            </colgroup>
+                            <thead>
+                            <tr>
+                                <th>ID</th>
+                                <th>Name</th>
+                                <th>Address</th>
+                                <th>Delete</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+</div>
+<script src="js/jquery-3.4.1.min.js"></script>
+<script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+<script src="js/manage-customers-controller.js"></script>
+</body>
+</html>

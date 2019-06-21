@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Modern POS 2019 - DEP3 Edition">
+    <title>Modern POS · DEP</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <!-- Font Awesome CSS -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+    <!-- Main styles -->
+    <link href="css/styles.css" rel="stylesheet">
+    <!-- Dashboard Styles -->
+    <link rel="stylesheet" href="css/dashboard.css">
+
+</head>
+<body>
+<nav class="navbar navbar-dark fixed-top bg-dark flex-md-nowrap p-0 shadow">
+    <a class="navbar-brand col-sm-3 col-md-2 mr-0" href="index.html">Modern POS</a>
+</nav>
+
+<div class="container-fluid">
+    <div class="row">
+        <nav class="col-md-2 d-none d-md-block bg-light sidebar">
+            <div class="sidebar-sticky">
+                <ul class="nav flex-column">
+                    <li class="nav-item">
+                        <a class="nav-link active" href="index.html">
+                            <i class="fas fa-tachometer-alt"></i>
+                            Dashboard
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="manage-customers.html">
+                            <i class="fas fa-user-friends"></i>
+                            Manage Customers
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="manage-items.html">
+                            <i class="fas fa-sitemap"></i>
+                            Manage Items
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="place-order.html">
+                            <i class="fas fa-shopping-cart"></i>
+                            Place Order
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="search-orders.html">
+                            <i class="fas fa-search"></i>
+                            Search Orders
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+
+        <main role="main" class="col-md-9 ml-sm-auto col-lg-10 px-4">
+            <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+                <h1 class="h2">Dashboard</h1>
+            </div>
+            <div class="row">
+                <div class="col col-12 col-lg-4">
+                    <div id="customers" class="alert alert-primary" role="alert">
+                        <h3>
+                            <i class="fas fa-user-friends"></i><br>
+                            CUSTOMERS<br>
+                        </h3>
+                        <h1>15</h1>
+                    </div>
+                </div>
+                <div class="col col-12 col-lg-4">
+                    <div id="items" class="alert alert-danger" role="alert">
+                        <h3>
+                            <i class="fas fa-sitemap"></i><br>
+                            ITEMS
+                        </h3>
+                        <h1>35</h1>
+                    </div>
+                </div>
+                <div class="col col-12 col-lg-4">
+                    <div id="orders" class="alert alert-warning" role="alert">
+                        <h3>
+                            <i class="fas fa-shopping-cart"></i><br>
+                            ORDERS
+                        </h3>
+                        <h1>10</h1>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+</div>
+<script src="js/jquery-3.4.1.min.js"></script>
+<script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+<script src="js/index-controller.js"></script>
+</body>
+</html>

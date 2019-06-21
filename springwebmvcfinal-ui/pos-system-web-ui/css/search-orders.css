@@ -1,0 +1,19 @@
+.fa-eye{
+    font-size: 2em;
+}
+
+table{
+    text-align: center;
+}
+
+table tr *:nth-child(3){
+    text-align: left;
+}
+
+table tbody tr{
+    cursor: pointer;
+}
+
+table tbody tr td:last-child:hover{
+    color: red;
+}

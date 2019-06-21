@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Modern POS 2019 - DEP3 Edition">
+    <title>Modern POS · DEP</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <!-- Font Awesome CSS -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+    <!-- Custom styles -->
+    <link href="css/styles.css" rel="stylesheet">
+    <!-- Place Order Styles -->
+    <link rel="stylesheet" href="css/place-order.css">
+
+</head>
+<body>
+<nav class="navbar navbar-dark fixed-top bg-dark flex-md-nowrap p-0 shadow">
+    <a class="navbar-brand col-sm-3 col-md-2 mr-0" href="index.html">Modern POS</a>
+</nav>
+
+<div class="container-fluid">
+    <div class="row">
+        <nav class="col-md-2 d-none d-md-block bg-light sidebar">
+            <div class="sidebar-sticky">
+                <ul class="nav flex-column">
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.html">
+                            <i class="fas fa-tachometer-alt"></i>
+                            Dashboard
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="manage-customers.html">
+                            <i class="fas fa-user-friends"></i>
+                            Manage Customers
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="manage-items.html">
+                            <i class="fas fa-sitemap"></i>
+                            Manage Items
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" href="place-order.html">
+                            <i class="fas fa-shopping-cart"></i>
+                            Place Order
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="search-orders.html">
+                            <i class="fas fa-search"></i>
+                            Search Orders
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+
+        <main role="main" class="col-md-9 ml-sm-auto col-lg-10 px-4">
+            <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+                <h1 class="h2">Place Order</h1>
+            </div>
+            <section>
+                <div class="row">
+                    <div class="col-12">
+                        <div class="form-group">
+                            <label>Order ID: <span id="spnOrderId"></span></label>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <div class="form-group">
+                            <label>Order Date: <span id="spnOrderDate"></span></label>
+                        </div>
+                    </div>
+                </div>
+                <div class="row border-bottom">
+                    <div class="col-12 col-lg-2">
+                        <div class="form-group">
+                            <label>Customer ID</label>
+                            <select id="cmbCustomerId" class="form-control">
+                            </select>
+                        </div>
+                    </div>
+                    <div class="col-12 col-lg-10">
+                        <label>Customer Name</label>
+                        <label id="lblCustomerName" class="form-control"></label>
+                    </div>
+                </div>
+                <div class="row border-bottom" style="margin-top: 10px;">
+                    <div class="col-12 col-lg-2">
+                        <div class="form-group">
+                            <label>Item Code</label>
+                            <select id="cmbItemCode" class="form-control">
+                            </select>
+                        </div>
+                    </div>
+                    <div class="col-12 col-lg-4">
+                        <label>Description</label>
+                        <label id="lblDescription" class="form-control"></label>
+                    </div>
+                    <div class="col-12 col-lg-2 text-center">
+                        <label>Unit Price</label>
+                        <label id="lblUnitPrice" class="form-control"></label>
+                    </div>
+                    <div class="col-12 col-lg-2 text-center">
+                        <label>Qty. on Hand</label>
+                        <label id="lblQtyOnHand" class="form-control"></label>
+                    </div>
+                    <div class="col-12 col-lg-2 text-center">
+                        <label>Qty. </label>
+                        <input id="txtQty" type="number" class="form-control">
+                    </div>
+                </div>
+                <div class="row" style="margin-top: 20px;">
+                    <div class="col-12">
+                        <table id="tblOrderDetails" class="table table-bordered table-hover">
+                            <colgroup>
+                                <col style="width:100px;">
+                                <col>
+                                <col style="width:100px;">
+                                <col style="width:200px;">
+                                <col style="width:200px;">
+                                <col style="width:100px;">
+                            </colgroup>
+                            <thead>
+                            <tr>
+                                <th>Code</th>
+                                <th>Description</th>
+                                <th>Qty.</th>
+                                <th>Unit Price</th>
+                                <th>Total</th>
+                                <th>Delete</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <div class="row" style="margin-top: 10px;margin-bottom: 20px;">
+                    <div class="col-12 col-lg-6">
+                        <h2>Total: <span id="spnTotal"></span></h2>
+                    </div>
+                    <div class="col-12 col-lg-6 text-right">
+                        <button id="btnPlaceOrder" class="btn btn-primary">Place Order</button>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/place-order-controller.js"></script>
+</body>
+</html>
