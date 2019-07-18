@@ -1,5 +1,8 @@
 Manifest-Version: 1.0
+Implementation-Version: 1.0.0
 Built-By: SAMANTHA
+Implementation-Vendor-Id: lk.ijse.dep
 Created-By: IntelliJ IDEA
 Build-Jdk: 1.8.0_181
+Main-Class: ${start-class}
 

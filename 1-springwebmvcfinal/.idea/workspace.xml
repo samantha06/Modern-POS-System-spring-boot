@@ -6,7 +6,43 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1b0f36d-015e-4c46-912c-fa6037c7e73a" name="Default Changelist" comment="" />
+    <list default="true" id="d1b0f36d-015e-4c46-912c-fa6037c7e73a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/dep/webmvc/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/dep/webmvc/controller/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lk/ijse/dep/webmvc/controller/OrderController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-web-mvc-final-1.0.0/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-web-mvc-final-1.0.0/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-web-mvc-final-1.0.0/WEB-INF/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-web-mvc-final-1.0.0/WEB-INF/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-web-mvc-final-1.0.0/WEB-INF/classes/lk/ijse/dep/webmvc/controller/CustomerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-web-mvc-final-1.0.0/WEB-INF/classes/lk/ijse/dep/webmvc/controller/CustomerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-web-mvc-final-1.0.0/WEB-INF/classes/lk/ijse/dep/webmvc/controller/ItemController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-web-mvc-final-1.0.0/WEB-INF/classes/lk/ijse/dep/webmvc/controller/ItemController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-web-mvc-final-1.0.0/WEB-INF/classes/lk/ijse/dep/webmvc/controller/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-web-mvc-final-1.0.0/WEB-INF/classes/lk/ijse/dep/webmvc/controller/OrderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-web-mvc-final-1.0.0/WEB-INF/classes/lk/ijse/dep/webmvc/dto/CustomDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-web-mvc-final-1.0.0/WEB-INF/classes/lk/ijse/dep/webmvc/dto/CustomDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-web-mvc-final-1.0.0/WEB-INF/classes/lk/ijse/dep/webmvc/dto/CustomerDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-web-mvc-final-1.0.0/WEB-INF/classes/lk/ijse/dep/webmvc/dto/CustomerDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-web-mvc-final-1.0.0/WEB-INF/classes/lk/ijse/dep/webmvc/dto/ItemDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-web-mvc-final-1.0.0/WEB-INF/classes/lk/ijse/dep/webmvc/dto/ItemDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-web-mvc-final-1.0.0/WEB-INF/classes/lk/ijse/dep/webmvc/dto/OrderDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-web-mvc-final-1.0.0/WEB-INF/classes/lk/ijse/dep/webmvc/dto/OrderDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-web-mvc-final-1.0.0/WEB-INF/classes/lk/ijse/dep/webmvc/dto/OrderDetailDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-web-mvc-final-1.0.0/WEB-INF/classes/lk/ijse/dep/webmvc/dto/OrderDetailDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-web-mvc-final-1.0.0/WEB-INF/classes/lk/ijse/dep/webmvc/entity/CustomEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-web-mvc-final-1.0.0/WEB-INF/classes/lk/ijse/dep/webmvc/entity/CustomEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-web-mvc-final-1.0.0/WEB-INF/classes/lk/ijse/dep/webmvc/entity/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-web-mvc-final-1.0.0/WEB-INF/classes/lk/ijse/dep/webmvc/entity/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-web-mvc-final-1.0.0/WEB-INF/classes/lk/ijse/dep/webmvc/entity/Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-web-mvc-final-1.0.0/WEB-INF/classes/lk/ijse/dep/webmvc/entity/Item.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-web-mvc-final-1.0.0/WEB-INF/classes/lk/ijse/dep/webmvc/entity/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-web-mvc-final-1.0.0/WEB-INF/classes/lk/ijse/dep/webmvc/entity/Order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-web-mvc-final-1.0.0/WEB-INF/classes/lk/ijse/dep/webmvc/entity/OrderDetail.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-web-mvc-final-1.0.0/WEB-INF/classes/lk/ijse/dep/webmvc/entity/OrderDetail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-web-mvc-final-1.0.0/WEB-INF/classes/lk/ijse/dep/webmvc/entity/OrderDetailPK.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-web-mvc-final-1.0.0/WEB-INF/classes/lk/ijse/dep/webmvc/entity/OrderDetailPK.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-web-mvc-final-1.0.0/WEB-INF/classes/lk/ijse/dep/webmvc/exception/GlobalExceptionHandle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-web-mvc-final-1.0.0/WEB-INF/classes/lk/ijse/dep/webmvc/exception/GlobalExceptionHandle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-web-mvc-final-1.0.0/WEB-INF/classes/lk/ijse/dep/webmvc/repository/CustomerRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-web-mvc-final-1.0.0/WEB-INF/classes/lk/ijse/dep/webmvc/repository/CustomerRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-web-mvc-final-1.0.0/WEB-INF/classes/lk/ijse/dep/webmvc/services/custom/CustomerService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-web-mvc-final-1.0.0/WEB-INF/classes/lk/ijse/dep/webmvc/services/custom/CustomerService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-web-mvc-final-1.0.0/WEB-INF/classes/lk/ijse/dep/webmvc/services/custom/ItemService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-web-mvc-final-1.0.0/WEB-INF/classes/lk/ijse/dep/webmvc/services/custom/ItemService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-web-mvc-final-1.0.0/WEB-INF/classes/lk/ijse/dep/webmvc/services/custom/OrderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-web-mvc-final-1.0.0/WEB-INF/classes/lk/ijse/dep/webmvc/services/custom/OrderService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-web-mvc-final-1.0.0/WEB-INF/classes/lk/ijse/dep/webmvc/services/custom/impl/CustomerServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-web-mvc-final-1.0.0/WEB-INF/classes/lk/ijse/dep/webmvc/services/custom/impl/CustomerServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-web-mvc-final-1.0.0/WEB-INF/classes/lk/ijse/dep/webmvc/services/custom/impl/ItemServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-web-mvc-final-1.0.0/WEB-INF/classes/lk/ijse/dep/webmvc/services/custom/impl/ItemServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-web-mvc-final-1.0.0/WEB-INF/classes/lk/ijse/dep/webmvc/services/custom/impl/OrderServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-web-mvc-final-1.0.0/WEB-INF/classes/lk/ijse/dep/webmvc/services/custom/impl/OrderServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-web-mvc-with-springBoot-final/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-web-mvc-with-springBoot-final/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-web-mvc-with-springBoot-final/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-web-mvc-with-springBoot-final/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-web-mvc-with-springBoot-final/.idea/workspace.xml" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,21 +82,7 @@
         <item name="JDBC@localhost" type="feb32156:DbDataSourceImpl" />
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
         <item name="jdbc: schema" type="c314c289:MysqlImplModel$Schema" />
-        <item name="customer: table" type="98d5ac3d:MysqlImplModel$Table" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="JDBC@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="jdbc: schema" type="c314c289:MysqlImplModel$Schema" />
         <item name="order: table" type="98d5ac3d:MysqlImplModel$Table" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="JDBC@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="jdbc: schema" type="c314c289:MysqlImplModel$Schema" />
-        <item name="orderdetail: table" type="98d5ac3d:MysqlImplModel$Table" />
       </path>
     </expand>
     <select />
@@ -120,50 +142,145 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1920756340">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.59" value="1" />
+          <entry key="project.open.time.65" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="5" />
+          <entry key="java" value="21" />
+          <entry key="js" value="3" />
+          <entry key="properties" value="1" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="5" />
+          <entry key="JAVA" value="21" />
+          <entry key="JavaScript" value="3" />
+          <entry key="Properties" value="1" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="121" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="121" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lk/ijse/dep/webmvc/controller/OrderController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="54" column="40" lean-forward="true" selection-start-line="54" selection-start-column="40" selection-end-line="54" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1752#1753#0" expanded="true" />
+                <element signature="e#1799#1800#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lk/ijse/dep/webmvc/dto/OrderDTO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="14" column="46" lean-forward="true" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lk/ijse/dep/webmvc/controller/ItemController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="30" column="42" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lk/ijse/dep/webmvc/services/custom/impl/OrderServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="667">
+              <caret line="98" column="20" lean-forward="true" selection-start-line="98" selection-start-column="20" selection-end-line="98" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lk/ijse/dep/webmvc/repository/OrderRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="60" lean-forward="true" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../springwebmvcfinal-ui/pos-system-web-ui/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="68" column="38" selection-start-line="68" selection-start-column="29" selection-end-line="68" selection-end-column="38" />
+            <state relative-caret-position="306">
+              <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../springwebmvcfinal-ui/pos-system-web-ui/js/index-controller.js">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lk/ijse/dep/webmvc/controller/CustomerController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="39" column="26" lean-forward="true" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+            <state relative-caret-position="300">
+              <caret line="31" column="83" lean-forward="true" selection-start-line="31" selection-start-column="83" selection-end-line="31" selection-end-column="83" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="das://d23194d3-d25d-4a9a-91d0-3bedf6f20f16/schema/jdbc/table/customer">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="das://d23194d3-d25d-4a9a-91d0-3bedf6f20f16/schema/jdbc/table/item">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../springwebmvcfinal-ui/pos-system-web-ui/js/place-order-controller.js">
+        <entry file="file://$PROJECT_DIR$/../springwebmvcfinal-ui/pos-system-web-ui/manage-customers.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
-              <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+            <state relative-caret-position="1921">
+              <caret line="113" selection-start-line="113" selection-end-line="115" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -177,6 +294,9 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -205,12 +325,12 @@
         <option value="$PROJECT_DIR$/src/main/java/lk/ijse/dep/webmvc/controller/ItemController.java" />
         <option value="$PROJECT_DIR$/src/main/java/lk/ijse/dep/webmvc/services/custom/impl/ItemServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/lk/ijse/dep/webmvc/services/custom/ItemService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lk/ijse/dep/webmvc/controller/OrderController.java" />
         <option value="$PROJECT_DIR$/src/main/java/lk/ijse/dep/webmvc/services/custom/impl/OrderServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/lk/ijse/dep/webmvc/services/custom/OrderService.java" />
         <option value="$PROJECT_DIR$/../springwebmvcfinal-ui/pos-system-web-ui/js/place-order-controller.js" />
-        <option value="$PROJECT_DIR$/../springwebmvcfinal-ui/pos-system-web-ui/index.html" />
         <option value="$PROJECT_DIR$/../springwebmvcfinal-ui/pos-system-web-ui/js/index-controller.js" />
+        <option value="$PROJECT_DIR$/../springwebmvcfinal-ui/pos-system-web-ui/index.html" />
+        <option value="$PROJECT_DIR$/src/main/java/lk/ijse/dep/webmvc/controller/OrderController.java" />
       </list>
     </option>
   </component>
@@ -227,6 +347,13 @@
     <option name="FILTER_DEBUG" value="false" />
     <option name="CUSTOM_FILTER" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="MavenProjectNavigator">
     <treeState>
       <expand>
@@ -239,15 +366,19 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="1356" />
-    <option name="height" value="735" />
+    <option name="x" value="-87" />
+    <option name="y" value="119" />
+    <option name="width" value="1326" />
+    <option name="height" value="576" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -306,43 +437,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="webmvc" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-web-mvc-final" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1-springwebmvcfinal" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="webmvc" type="462c0819:PsiDirectoryNode" />
-              <item name="exception" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-web-mvc-final" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1-springwebmvcfinal" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="webmvc" type="462c0819:PsiDirectoryNode" />
-              <item name="repository" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-web-mvc-final" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1-springwebmvcfinal" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="webmvc" type="462c0819:PsiDirectoryNode" />
-              <item name="repository" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-web-mvc-final" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1-springwebmvcfinal" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="webmvc" type="462c0819:PsiDirectoryNode" />
               <item name="services" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -368,40 +462,37 @@
             </path>
             <path>
               <item name="spring-web-mvc-final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1-springwebmvcfinal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-web-mvc-final" type="b2602c69:ProjectViewProjectNode" />
               <item name="springwebmvcfinal-ui" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-web-mvc-final" type="b2602c69:ProjectViewProjectNode" />
               <item name="springwebmvcfinal-ui" type="462c0819:PsiDirectoryNode" />
               <item name="pos-system-web-ui" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-web-mvc-final" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springwebmvcfinal-ui" type="462c0819:PsiDirectoryNode" />
-              <item name="pos-system-web-ui" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-web-mvc-final" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springwebmvcfinal-ui" type="462c0819:PsiDirectoryNode" />
-              <item name="pos-system-web-ui" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561077733289" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563377244275" />
     <property name="database.console.LAST_STATE" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Java Enterprise/POS System Web/Complete_jquery.pos" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
@@ -426,10 +517,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Unnamed">
+  <component name="RunManager" selected="Spring Boot.AppInitializer">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="spring-web-mvc-final" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppInitializer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-web-mvc-final" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lk.ijse.dep.webmvc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="lk.ijse.dep.webmvc.AppInitializer" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -510,9 +614,11 @@
     <list>
       <item itemvalue="Tomcat Server.Unnamed" />
       <item itemvalue="Application.Test" />
+      <item itemvalue="Spring Boot.AppInitializer" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.AppInitializer" />
         <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
@@ -529,17 +635,23 @@
       <updated>1560861316584</updated>
       <workItem from="1560861318178" duration="27681000" />
       <workItem from="1561002704633" duration="24196000" />
+      <workItem from="1561440700948" duration="349000" />
+      <workItem from="1561441156571" duration="1252000" />
+      <workItem from="1561452423567" duration="11149000" />
+      <workItem from="1562056554246" duration="15000" />
+      <workItem from="1562063474361" duration="2426000" />
+      <workItem from="1562656326674" duration="15921000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51877000" />
+    <option name="totallyTimeSpent" value="82989000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24205749" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -549,7 +661,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.09836066" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40374786" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4557377" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -565,13 +677,14 @@
       <window_info anchor="bottom" id="Version Control" order="15" show_stripe_button="false" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info active="true" anchor="right" id="Database" order="2" visible="true" weight="0.24054463" />
+      <window_info anchor="right" id="Database" order="2" weight="0.2375189" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Maven Projects" order="6" weight="0.32980332" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -612,23 +725,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lk/ijse/dep/webmvc/dto/ItemDTO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="23" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/d23194d3-d25d-4a9a-91d0-3bedf6f20f16/console.sql">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -639,13 +735,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lk/ijse/dep/webmvc/main/JpaConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="22" column="27" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lk/ijse/dep/webmvc/main/JpaConfig.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -684,13 +774,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lk/ijse/dep/webmvc/repository/ItemRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lk/ijse/dep/webmvc/repository/OrderDetailRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -712,13 +795,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lk/ijse/dep/webmvc/repository/OrderRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lk/ijse/dep/webmvc/repository/QueryRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -737,19 +813,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="das://d23194d3-d25d-4a9a-91d0-3bedf6f20f16/schema/jdbc/table/orderdetail">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="das://d23194d3-d25d-4a9a-91d0-3bedf6f20f16/schema/jdbc/table/orderdetail" />
     <entry file="file://$PROJECT_DIR$/../springwebmvcfinal-ui/pos-system-web-ui/js/manage-customers-controller.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-34">
@@ -757,20 +824,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lk/ijse/dep/webmvc/dto/OrderDTO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lk/ijse/dep/webmvc/dto/CustomDTO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
           <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -807,27 +864,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../springwebmvcfinal-ui/pos-system-web-ui/place-order.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="153" column="22" lean-forward="true" selection-start-line="153" selection-start-column="22" selection-end-line="153" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lk/ijse/dep/webmvc/repository/CustomerRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lk/ijse/dep/webmvc/repository/impl/QueryRepositoryImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="20" column="34" lean-forward="true" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -838,25 +878,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lk/ijse/dep/webmvc/services/custom/impl/CustomerServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="631">
-          <caret line="64" column="4" selection-start-line="64" selection-start-column="4" selection-end-line="64" selection-end-column="30" />
-          <folding>
-            <element signature="e#1939#1940#0" expanded="true" />
-            <element signature="e#1972#1973#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lk/ijse/dep/webmvc/services/custom/impl/ItemServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="61" column="4" lean-forward="true" selection-start-line="61" selection-start-column="4" selection-end-line="61" selection-end-column="27" />
-          <folding>
-            <element signature="e#1843#1844#0" expanded="true" />
-            <element signature="e#1880#1881#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -867,99 +892,147 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lk/ijse/dep/webmvc/controller/ItemController.java">
+    <entry file="das://d23194d3-d25d-4a9a-91d0-3bedf6f20f16/schema/jdbc/table/order" />
+    <entry file="das://d23194d3-d25d-4a9a-91d0-3bedf6f20f16/schema/jdbc/table/customer" />
+    <entry file="das://d23194d3-d25d-4a9a-91d0-3bedf6f20f16/schema/jdbc/table/item" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/lk/ijse/dep/webmvc/dto/ItemDTO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="30" column="63" selection-start-line="30" selection-start-column="63" selection-end-line="30" selection-end-column="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lk/ijse/dep/webmvc/services/custom/impl/OrderServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="99" column="15" selection-start-line="99" selection-start-column="15" selection-end-line="99" selection-end-column="15" />
-          <folding>
-            <element signature="e#3886#3887#0" expanded="true" />
-            <element signature="e#3924#3925#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="204">
+          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lk/ijse/dep/webmvc/services/custom/OrderService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+        <state relative-caret-position="204">
+          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lk/ijse/dep/webmvc/controller/OrderController.java">
+    <entry file="file://$PROJECT_DIR$/../springwebmvcfinal-ui/pos-system-web-ui/place-order.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="32" column="23" lean-forward="true" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1156#1157#0" expanded="true" />
-            <element signature="e#1203#1204#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="374">
+          <caret line="70" column="65" selection-start-line="70" selection-start-column="55" selection-end-line="70" selection-end-column="65" />
         </state>
       </provider>
     </entry>
-    <entry file="das://d23194d3-d25d-4a9a-91d0-3bedf6f20f16/schema/jdbc/table/order">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../springwebmvcfinal-ui/pos-system-web-ui/manage-customers.html">
+    <entry file="file://$PROJECT_DIR$/src/main/java/lk/ijse/dep/webmvc/repository/impl/QueryRepositoryImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="113" selection-start-line="113" selection-end-line="115" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lk/ijse/dep/webmvc/controller/CustomerController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../springwebmvcfinal-ui/pos-system-web-ui/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="68" column="38" selection-start-line="68" selection-start-column="29" selection-end-line="68" selection-end-column="38" />
+        <state relative-caret-position="164">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../springwebmvcfinal-ui/pos-system-web-ui/js/place-order-controller.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+        <state relative-caret-position="272">
+          <caret line="31" column="34" lean-forward="true" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../springwebmvcfinal-ui/pos-system-web-ui/js/index-controller.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" column="26" lean-forward="true" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+        <state relative-caret-position="357">
+          <caret line="21" column="52" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="das://d23194d3-d25d-4a9a-91d0-3bedf6f20f16/schema/jdbc/table/customer">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/lk/ijse/dep/webmvc/AppInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="das://d23194d3-d25d-4a9a-91d0-3bedf6f20f16/schema/jdbc/table/item">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/lk/ijse/dep/webmvc/services/custom/impl/CustomerServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="44" column="27" selection-start-line="44" selection-start-column="27" selection-end-line="44" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lk/ijse/dep/webmvc/repository/ItemRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lk/ijse/dep/webmvc/repository/OrderRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="60" lean-forward="true" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springwebmvcfinal-ui/pos-system-web-ui/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springwebmvcfinal-ui/pos-system-web-ui/manage-customers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1921">
+          <caret line="113" selection-start-line="113" selection-end-line="115" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lk/ijse/dep/webmvc/services/custom/impl/OrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="98" column="20" lean-forward="true" selection-start-line="98" selection-start-column="20" selection-end-line="98" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lk/ijse/dep/webmvc/controller/ItemController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="30" column="42" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lk/ijse/dep/webmvc/controller/CustomerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="31" column="83" lean-forward="true" selection-start-line="31" selection-start-column="83" selection-end-line="31" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lk/ijse/dep/webmvc/dto/OrderDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="14" column="46" lean-forward="true" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lk/ijse/dep/webmvc/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="54" column="40" lean-forward="true" selection-start-line="54" selection-start-column="40" selection-end-line="54" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1752#1753#0" expanded="true" />
+            <element signature="e#1799#1800#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

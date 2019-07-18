@@ -11,6 +11,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.Arrays;
+import java.util.Date;
 import java.util.List;
 
 @CrossOrigin
@@ -27,13 +28,12 @@ public class OrderController {
 //    }
 
     @GetMapping(produces = MediaType.APPLICATION_JSON_VALUE)
-    public ResponseEntity<List<OrderDTO>> getAllCustomers(){
+    public ResponseEntity<List<OrderDTO>> getAllOrders(){
         HttpHeaders httpHeaders = new HttpHeaders();
         httpHeaders.add("X-Count",String.valueOf(orderService.ordersCount()));
         httpHeaders.setAccessControlAllowHeaders(Arrays.asList("X-Count"));
         httpHeaders.setAccessControlExposeHeaders(Arrays.asList("X-Count"));
         return new ResponseEntity<List<OrderDTO>>(orderService.getAllOrders(),httpHeaders,HttpStatus.OK);
-
     }
 
     @GetMapping("{orderId:\\d*}")
@@ -53,6 +53,7 @@ public class OrderController {
     @PostMapping(consumes = MediaType.APPLICATION_JSON_VALUE)
     public ResponseEntity<Void> placeOrder(@RequestBody OrderDTO orderDTO){
         System.out.println("Working 1");
+        System.out.println(new Date());
         System.out.println(orderDTO.getOrderDate());
         System.out.println(orderDTO.getOrderId());
         System.out.println(orderDTO.getCustomerId());
@@ -64,7 +65,6 @@ public class OrderController {
         if (orderDTO.getOrderId()<=0 || orderDTO.getOrderDate() == null || orderDTO.getCustomerId().isEmpty()){
             System.out.println("working 2");
             return new ResponseEntity<Void>(HttpStatus.BAD_REQUEST);
-
         }
         for (int i = 0; i < orderDTO.getOrderDetails().size(); i++) {
             if (orderDTO.getOrderDetails().get(i).getOrderId()<=0 || orderDTO.getOrderDetails().get(i).getItemCode().isEmpty() ||
